@@ -1,7 +1,7 @@
 ---
 home: true
 title: 首页
-heroImage: https://vuejs.press/images/hero.png
+heroImage: /images/sea.jpeg
 actions:
   - text: 快速开始
     link: /zh/get-started.html
@@ -12,22 +12,18 @@ actions:
     type: secondary
 
 features:
-  - title: 英文
-    details: 最小化设置，以 Markdown 为中心的项目结构帮助你专注于写作。
-  - title: 基于 Vue
-    details: 享受 Vue 的开发体验，在 Markdown 中使用 Vue 组件，并用 Vue 开发自定义主题。
-  - title: 性能优异
-    details: VuePress 为每个页面生成预渲染的静态 HTML，并在页面加载后作为单页应用程序运行。
-  - title: 主题
-    details: 提供默认主题。你也可以选择社区主题或创建自己的主题。
-  - title: 插件
-    details: 灵活的插件 API，允许插件为你的站点提供大量即插即用的功能。
-  - title: 打包工具
-    details: 默认打包工具是 Vite，同时也支持 Webpack。选择你喜欢的一个！
+  - title: 基础知识
+    details: AI 基础知识主要包括理解人工智能的定义、基本概念和相关技术。
+  - title: 研究动态与技术趋势
+    details: AI 的研究动态与技术趋势涉及当前学术界和工业界最前沿的创新与发展。
+  - title: 开发工具与框架
+    details: AI 开发工具和框架是帮助开发者实现、训练和部署 AI 模型的软件工具。
+  - title: 行业应用
+    details: AI 在各个行业中的应用正变得越来越广泛。
+  - title: 资源
+    details: AI 资源指的是与人工智能研究与开发相关的各类资料、数据集、工具和平台。
+  - title: 知识问答
+    details: 通过人工智能技术，从结构化或非结构化的知识库中自动提取相关信息，并以自然语言的方式回答用户提出的问题！
 
-footer: MIT 许可证 | 版权 © 2018-现在 VuePress 社区
+footer: MIT 许可证 | 版权 © 2024-现在
 ---
-
-这是首页的内容。更多详情请参阅 [首页文档][default-theme-home]。
-
-[default-theme-home]: https://vuejs.press/reference/default-theme/frontmatter.html#home-page

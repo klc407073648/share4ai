@@ -4,7 +4,7 @@
 
 ## smart speaker
 
-! [] (./ Images/Smart_speak.png)
+![](./images/smart_speak.png)
 
 Enter: "Hello, Xiao Ai classmate, play Jay Chou's rice incense"
 
@@ -21,11 +21,11 @@ Execution step (AI PIPELINE):
 
 Other functions:
 
-! [] (./ Images/Other_women .png)
+![](./images/other_fun.png)
 
-## 驶
+## Self Driving Car
 
-! [] (./ Images/SELF_DRIVING_DETECT.PNG)
+![](./images/self_driving_detect.png)
 
 step:
 
@@ -38,11 +38,11 @@ step:
 3. Movement planning
 * Speed, acceleration, steering, brake, etc.
 
-! [] (./ Images/Detect.png)
+![](./images/detect.png)
 
 Forecast icon:
 
-! [] (./ Images/Detect_Chanding_!!)
+![](./images/detect_and_plan.png)
 
 Data information from a few GB to a dozen G to a dozen GBs per minute of autonomous driving
 
@@ -179,15 +179,15 @@ Example
 - control
 -Prip instructions run in accordance with the prescribed path
 
-## 机 machine learning
+## general machine learning
 
 -The non -structural data
 
-! [] (./ Images/UNSTRURURD_DATA.PNG)
+![](./images/unstructured_data.png)
 
 -The structured data
 
-! [] (./ Images/Structured_data.png)
+![](./images/structured_data.png)
 
 # Main artificial intelligence technology survey
 

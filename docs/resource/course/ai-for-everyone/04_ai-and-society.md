@@ -1,4 +1,3 @@
-
 # AI and Society
 
 ## The realistic view of artificial intelligence
@@ -18,7 +17,7 @@ AI limit:
 
 ## discrimination/prejudice
 
-! [] (./ Images/Unhealthy_ Itereotypes.png)
+![](./images/unhealthy_stereotypes.png)
 
 ### The impact of discrimination/prejudice
 
@@ -41,7 +40,7 @@ AI limit:
 
 The way AI looks at pictures is different from humans. Through modifying the pixels of images, humans may think that it is still the same type, but it is different for AI
 
-! [] (./ Images/Attacks_ON_ Love .png)
+![](./images/attacks_on_ai.png)
 
 Confrontation defense
 -Fight really exists, but it will generate some costs
@@ -74,9 +73,9 @@ Automation can achieve more things, AI accelerate automation process
 
 How to estimate how many jobs can be replaced?
 
-! [] (./ Images/Love_IMPACT_JOB.PNG)
+![](./images/ai_impact_job.png)
 
-! [] (./ Images/Love_IMPACT_JOB_RISK.PNG)
+![](./images/ai_impact_job_risk.png)
 
 Think about which tasks constitute this job, and then estimate the degree of automation of each task through AI
 

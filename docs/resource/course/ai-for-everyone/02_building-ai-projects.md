@@ -22,7 +22,7 @@ Self -driving car
 -Cap data ——— Get new model information
 -D maintenance/update model
 
-! [] (./ Images/SELF_DRIVING_CAR.PNG))
+![](./images/self_driving_car.png)
 
 ## Workflow of the data science project
 
@@ -57,7 +57,7 @@ Data science is a wider concept. It will use some machine learning methods to so
 
 ### AI knowledge and field knowledge
 
-! [] (./ Images/AI_DOMAIN.PNG))
+![](./images/AI_domain.png)
 
 Brainstorm
 

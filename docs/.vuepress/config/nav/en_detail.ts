@@ -4,56 +4,49 @@ export const en_detail_basic = [
     text: "Artificial Intelligence",
     prefix: "ai/",
     children: [
-      { text: "Install", link: "install" },
-      { text: "Intro", link: "intro" },
+       { text: "Basic Concept", link: "concept" },
     ],
   },
   {
     text: "Machine Learning",
     prefix: "ml/",
     children: [
-      { text: "Install", link: "install" },
-      { text: "Intro", link: "intro" },
+       { text: "Basic Concept", link: "concept" },
     ],
   },
   {
     text: "Deep Learning",
     prefix: "dp/",
     children: [
-      { text: "Install", link: "install" },
-      { text: "Intro", link: "intro" },
+       { text: "Basic Concept", link: "concept" },
     ],
   },
   {
     text: "Natural Language Processing",
     prefix: "nlp/",
     children: [
-      { text: "Install", link: "install" },
-      { text: "Intro", link: "intro" },
+       { text: "Basic Concept", link: "concept" },
     ],
   },
   {
     text: "Computer Vision",
     prefix: "cv/",
     children: [
-      { text: "Install", link: "install" },
-      { text: "Intro", link: "intro" },
+       { text: "Basic Concept", link: "concept" },
     ],
   },
   {
     text: "Reinforcement Learning",
     prefix: "rp/",
     children: [
-      { text: "Install", link: "install" },
-      { text: "Intro", link: "intro" },
+       { text: "Basic Concept", link: "concept" },
     ],
   },
   {
     text: "Artificial Neural Networks",
     prefix: "ann/",
     children: [
-      { text: "Install", link: "install" },
-      { text: "Intro", link: "intro" },
+       { text: "Basic Concept", link: "concept" },
     ],
   },
 ];
@@ -69,32 +62,35 @@ export const en_detail_resource = [
     text: "Recommended Books",
     prefix: "book/",
     children: [
-      { text: "Install", link: "install" },
-      { text: "Intro", link: "intro" },
+      { text: "Recommend Content", link: "recommend_list" },
     ],
   },
   {
-    text: "Learning courses",
+    text: "Articles",
+    prefix: "article/",
+    children: [
+      { text: "How to train your own Large Language Models", link: "train_own_models" },
+    ],
+  },
+  {
+    text: "Courses",
     prefix: "course/",
     children: [
-      { text: "Install", link: "install" },
-      { text: "Intro", link: "intro" },
+      { text: "AI For Everyone", link: "ai-for-everyone" },
     ],
   },
   {
     text: "Open source project",
     prefix: "openprj/",
     children: [
-      { text: "Install", link: "install" },
-      { text: "Intro", link: "intro" },
+      { text: "Github Open source project", link: "github_prj" },
     ],
   },
   {
-    text: "Frequently used websites",
+    text: "Websites",
     prefix: "website/",
     children: [
-      { text: "Install", link: "install" },
-      { text: "Intro", link: "intro" },
+      { text: "Prompt Engineering Guide", link: "prompt-engineering-guide" },
     ],
   },
 ];

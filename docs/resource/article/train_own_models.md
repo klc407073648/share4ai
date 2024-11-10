@@ -2,7 +2,7 @@
 
 # Reference information
 
-* [HOW TOT RAIN has a Ro-dance Language Models] (https://blog.rep IT.COM/ Stray cat -Traying)
+* [How to train your own Large Language Models](https://blog.replit.com/llm-training)
 
 # content
 
@@ -22,4 +22,4 @@ Remark:
 * Hugging Face is a leading artificial intelligence company that focuses on natural language processing (NLP) and machine learning.
 * Mosaicml is a company focusing on improving the training efficiency of machine learning models and reducing training costs.It provides a platform for training and accelerating the training process of optimizing and accelerating large -scale machine learning models.
 
-! [] (./ Images/TRAIN_ON_MODELS/Train_lob Cat .png)
+![](./images/train_own_models/train_llm.png)

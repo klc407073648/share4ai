@@ -1,4 +1,4 @@
-# 强化学习（Reinforcement Learning）
+# 强化学习
 
 ## 定义
 

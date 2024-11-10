@@ -1,4 +1,3 @@
-
 # AI and Society
 
 ## 对人工智能的现实观点

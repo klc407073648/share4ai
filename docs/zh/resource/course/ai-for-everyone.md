@@ -1,4 +1,4 @@
-## ai-for-everyone
+# ai-for-everyone 目录
 
 * [什么是AI](./ai-for-everyone/01_what-is-ai.md)
 * [构建 AI 项目](./ai-for-everyone/02_building-ai-projects.md)

@@ -1,4 +1,4 @@
-# Natural Language Treatment (NLP)
+# Natural Language Processing
 
 ## definition
 

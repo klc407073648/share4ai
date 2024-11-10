@@ -1,4 +1,4 @@
-# Artificial neural network (Artificial Neural Networks, Ann)
+# Artificial neural network
 
 ## definition
 

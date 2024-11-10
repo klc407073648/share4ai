@@ -1,4 +1,4 @@
-# Computer vision (Computer Vision)
+# Computer vision
 
 ## definition
 

@@ -3,7 +3,7 @@
 * ANI (Artificial Narrow Intelligence) weak artificial intelligence
 * AGI (Artificial General Intelligence) strong artificial intelligence
 
-! [] (./ Images/Ani_ag I.Png)
+![](./images/ANI_AGI.png)
 
 ## machine learning
 
@@ -29,7 +29,7 @@ Machine learning mainly includes the following categories:
 
 Demo of supervision and learning:
 
-! [] (./ Images/input_2_output.png)
+![](./images/input_2_output.png)
 
 ## What is data
 
