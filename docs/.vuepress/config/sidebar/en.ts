@@ -27,21 +27,21 @@ export const enSidebarConfig = {
     {
       text: "AI Tools and frameworks",
       collapsible: true,
-      children: en_detail_trend,
+      children: en_detail_framework,
     }
   ],
   '/application/': [
     {
       text: "AI Applications",
       collapsible: true,
-      children: en_detail_trend,
+      children: en_detail_application,
     }
   ],
   '/resource/': [
     {
       text: "AI Resource",
       collapsible: true,
-      children: en_detail_trend,
+      children: en_detail_resource,
     }
   ],
 }

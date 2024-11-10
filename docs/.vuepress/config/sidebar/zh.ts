@@ -19,28 +19,28 @@ export const zhSidebarConfig = {
     {
       text: "AI 研究动态与技术趋势",
       collapsible: true,
-      children: zh_detail_basic,
+      children: zh_detail_trend,
     },
   ],
   "/zh/framework/": [
     {
       text: "AI 开发工具与框架",
       collapsible: true,
-      children: zh_detail_basic,
+      children: zh_detail_framework,
     },
   ],
   "/zh/application/": [
     {
       text: "AI 行业应用",
       collapsible: true,
-      children: zh_detail_basic,
+      children: zh_detail_application,
     },
   ],
   "/zh/resource/": [
     {
       text: "AI 资源",
       collapsible: true,
-      children: zh_detail_basic,
+      children: zh_detail_resource,
     },
   ],
 };

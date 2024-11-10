@@ -14,3 +14,6 @@ https://ecosystem.vuejs.press/zh/themes/default/locale.html#prev
 搜索服务
 
 https://ecosystem.vuejs.press/zh/themes/default/config.html#sidebar
+
+
+内容页面太窄了，需要调整
