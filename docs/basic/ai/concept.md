@@ -1,13 +1,13 @@
-# 人工智能（AI）
+# Artificial Intelligence (AI)
 
-## 定义
+## definition
 
-人工智能（Artificial Intelligence, AI）是指模拟、延伸和扩展人类智能的技术，旨在使计算机系统能够执行通常需要人类智能才能完成的任务，如理解语言、识别图像、进行推理和决策等。
+Artificial Intelligence (AI) refers to simulation, extension, and expansion of human intelligence technology. It aims to enable computer systems to perform tasks that usually require human intelligence to complete, such as understanding language, identification images, reasoning and decision -making.
 
-## 历史
+## history
 
-- **1950年代**：AI的起源可以追溯到1950年，艾伦·图灵提出了“图灵测试”，这是检验机器是否具有人类智能的标准。
-- **1956年**：约翰·麦卡锡等人在达特茅斯会议上正式提出了“人工智能”这一术语，标志着AI作为一个学科的诞生。
-- **1960-1970年代**：早期的AI研究集中在符号逻辑和规则基础上的推理系统。
-- **1980-1990年代**：专家系统的兴起，以及机器学习和神经网络的初步发展。
-- **21世纪**：随着计算能力、数据量和算法的进步，深度学习等技术的突破使得AI进入了快速发展的阶段，广泛应用于语音识别、图像处理等领域。
+- ** 1950 **: The origin of AI can be traced back to 1950. Allen Turing proposed "Turing Test", which is the standard for testing the machine to have human intelligence.
+- ** 1956 **: John McCarthy and others formally proposed the term "artificial intelligence" at the Datmouth conference, marking the birth of AI as a discipline.
+- ** 1960-1970 **: The early AI research concentrated on the reasoning system based on symbolic logic and rules.
+- ** 1980-1990: The rise of expert systems, as well as the preliminary development of machine learning and neural networks.
+- ** 21st century **: With the advancement of computing power, data volume, and algorithms, and the breakthroughs of deep learning technologies have entered the stage of rapid development, widely used in the fields of voice recognition, image processing.

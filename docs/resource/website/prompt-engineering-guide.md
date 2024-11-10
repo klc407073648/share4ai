@@ -1,95 +1,95 @@
-# 提示工程指南
+#
 
-# 参考资料
+# Reference information
 
-* [Prompt Engineering Guide](https://www.promptingguide.ai/zh)
+?
 
-## 概念
+## concept
 
-提示工程（Prompt Engineering）是一门较新的学科，关注**提示词开发和优化，帮助用户将大语言模型（Large Language Model, LLM）用于各场景和研究领域**。 掌握了提示工程相关技能将有助于用户更好地了解大型语言模型的能力和局限性。
+Prompt Engineering is a newer discipline. Pay attention to the development and optimization of ** prompts to help users use Large Language Model (LLM) for various scenarios and research areas.Mastering the prompt project -related skills will help users better understand the ability and limitations of large language models.
 
-* 研究人员可利用提示工程来提升大语言模型**处理复杂任务场景的能力**，如问答和算术推理能力。
+*Researchers can use prompt projects to improve the ability of large language models ** to handle complex task scenarios **, such as Q & A and arithmetic reasoning capabilities.
 
-* 开发人员可通过提示工程设计、研发强大的工程技术，实现和大语言模型或其他生态工具的**高效接轨**。
+*Developers can achieve efficient integration with large language models or other ecological tools by reminding engineering design and research and development of strong engineering technology.
 
-* 用户可以通过提示工程来提高大语言模型的安全性，也可以赋能大语言模型，比如借助专业领域知识和外部工具来增强大语言模型能力。
+* Users can improve the security of large language models by prompting projects, and they can also empower large language models, such as using professional field knowledge and external tools to enhance the ability of large language models.
 
-提示工程不仅仅是关于设计和研发提示词。它包含了与大语言模型交互和研发的各种技能和技术。**提示工程在实现和大语言模型交互、对接，以及理解大语言模型能力方面都起着重要作用**。
+Prompting project is not just about design and research and development prompts.It contains various skills and techniques that interact with large language models and research and development.** Prompt that the project plays an important role in realizing, docking with large language models, and understanding of large language models. **.
 
-## 提示工程简介
+## reminder project profile
 
-![](./prompt-engineering-guide/images/prompt_guide.png)
+! [] (./ Prompt-Wingineering-expensive/images/prompt_ 贵!)
 
-* 模型设置
-    * Temperature: temperature 的参数值越小，模型就会返回越确定的一个结果。
-    * Top_p: 使用 top_p（与 temperature 一起称为核采样（nucleus sampling）的技术），可以用来控制模型返回结果的确定性。如果你需要准确和事实的答案，就把参数值调低。如果你在寻找更多样化的响应，可以将其值调高点。
+* Model settings
+* Temperature: The smaller the parameter values ​​of the testure, the more the model will return a certain result.
+* TOP_P: Using Top_P (technique called Nucleus Sampling with Temperature), it can be used to control the certainty of the model returning results.If you need accurate and factual answers, the parameter value is lowered.If you are looking for more diverse responses, you can adjust its value.
 
-* 提示词
-    * 包含以下任意要素：
-        * **指令**：想要模型执行的特定任务或指令。
-        * **上下文**：包含外部信息或额外的上下文信息，引导语言模型更好地响应。
-        * **输入数据**：用户输入的内容或问题。
-        * **输出指示**：指定输出的类型或格式。
+* Tips
+* Contains the following elements:
+*** instruction **: Specific tasks or instructions to be executed by the model.
+*** Context **: Contains external information or extra context information to guide the language model to respond better.
+*** Enter data **: The content or problem of the user input.
+*** Output indication **: specify the type or format of the output.
 
-* 设计提示的通用技巧
-    * 从简单开始：当你有一个涉及许多不同子任务的大任务时，可以尝试将任务分解为更简单的子任务，并随着结果的改善逐步构建。
-    * 指令：使用命令来指示模型执行各种简单任务，例如“写入”、“分类”、“总结”、“翻译”、“排序”等，从而为各种简单任务设计有效的提示。
-        * example
-        ```
-        提示：
-        ### 指令 ###
-        将以下文本翻译成西班牙语：
-        文本：“hello！”
+* The general skills of the design prompt
+* Starting simplicity: When you have a big task involving many different sub -tasks, you can try to decompose the task into a simpler sub -task and gradually build with the improvement.
+* Directive: Use the command to indicate the model to perform various simple tasks, such as "writing", "classification", "summary", "translation", "sorting", etc., so as to design effective prompts for various simple task design.
+* Example
+`` `
+hint:
+### instruction ###
+Translate the following text into Spanish:
+Text: "Hello!"
 
-        输出：
-        ¡Hola!
-        ```
-    * 具体性
-        * **事实上，在提示中提供示例对于获得特定格式的期望输出非常有效。**
-        ![](./prompt-engineering-guide/images/prompt_middleware.png)
+Output:
+BleakHola!
+`` `
+* Specificity
+*** In fact, the provision in the prompt is very effective for expected outputs to obtain a specific format.**
+! [] (./ Prompt-Endineering-expensive/images/prompt_middle wng)
 
-    * 避免不明确
-    * 做什么还是不做什么?
-        * 设计提示时的另一个常见技巧是避免说不要做什么，而应该说要做什么
+* Avoid unclear
+* What or do you do?
+* Another common technique when designing prompts is to avoid saying not to do anything, but what to do to do
 
-* 提示词示例
-    * 文本概括
-    * 信息提取
-    * 问答
-    * 文本分类
-    * 对话
-    * 代码生成
-    * 推理：**最困难任务之一是需要某种形式的推理的任务**
+* Example of prompt words
+* Text summary
+* Information extraction
+* Questions and Answers
+* Text classification
+* Dialogue
+* Code generation
+*Reasoning: One of the most difficult tasks is to require some form of reasoning tasks **
 
-## 提示技术
+## reminder technology
 
-![](./prompt-engineering-guide/images/prompt_tech.png)
+! [] (./ Prompt-Wingineering-expensive/images/prompt_ specialty .png)
 
-## 提示应用
+## reminder application
 
-![](./prompt-engineering-guide/images/prompt_application.png)
+! [] (./ Prompt-Endineering-expensive /images/prompt_application.png)
 
 
-基于对大语言模型的浓厚兴趣，我们编写了这份全新的提示工程指南，介绍了大语言模型相关的论文研究、学习指南、模型、讲座、参考资料、大语言模型能力以及与其他与提示工程相关的工具。
+Based on a strong interest in large language models, we have compiled this new prompt project guide, introducing the papers, learning guidelines, models, lectures, reference materials, large language model capabilities, and other and prompt projects related to large language models, as well as other and with reminder projectsRelated tools.
 
-1. 提示工程基础
-   概念和背景：提示工程指的是通过精确设计和调整对话提示来优化 AI 系统的响应质量。网站解释了这一领域的背景，如何通过有针对性的提示提高模型的准确性和相关性。
-   工作原理：介绍了 AI 模型如何通过输入的提示来生成回答。包括如何将提示转化为模型能理解的形式，以及模型如何利用其训练数据来产生响应。
+1. Prompt engineering basics
+Concept and background: Prompt that engineering refers to optimizing the response quality of the AI ​​system by accurate design and adjustment dialogue prompts.The website explains the background of this field, how to improve the accuracy and correlation of the model through targeted prompts.
+Working principle: Introduce how the AI ​​model is generated by input prompts to generate answers.Including how to convert the prompt into a form that the model can understand, and how the model uses its training data to generate a response.
 
-2. 提示设计原则
-   明确性和具体性：清晰的提示能够减少歧义，提高 AI 的响应准确性。示例包括：避免使用模糊的语言，确保提示中包含所有必要的信息。
-   上下文提供：有效的提示应该包含足够的背景信息，使得 AI 能够理解请求的上下文。例如，提供场景描述、历史背景或其他相关数据。
-   格式和结构：使用结构化的提示可以提高输出的质量。推荐的格式包括问答对、任务描述、模板样式等，帮助模型理解期望的回答形式。
+2. Prompt design principles
+Clearance and specificity: Clear reminders can reduce ambiguity and improve the accuracy of AI response.Examples include: Avoid using vague languages ​​to ensure that the prompt contains all necessary information.
+Context provided: effective prompts should contain sufficient background information, so that AI can understand the context of requests.For example, provide scene description, historical background or other related data.
+Format and structure: Use structured prompts to improve the quality of the output.The recommended format includes quiz pairs, task descriptions, template styles, etc. to help the model understand the form of answering expectations.
 
-3. 案例分析
-   成功的提示示例：展示了实际应用中成功的提示如何有效引导模型生成准确和相关的回答。例如，提供具体问题、明确的任务目标和预期输出格式。
-   问题提示的案例：分析了那些因提示不当而导致模型生成无关或错误输出的情况，如缺乏必要的上下文或提示过于复杂。
+3. Case analysis
+Successful prompt example: Show the successful prompt in practical application how to effectively guide the model to generate accurate and related answers.For example, provide specific problems, clear task goals and expected output formats.
+Case prompt: Analyze the situation of the model generating unrelated or error output due to improper prompts, such as lack of necessary context or prompts that are too complicated.
 
-4. 优化策略
-   调整与迭代：强调了根据实际反馈不断调整提示的过程。包括如何通过分析模型生成的结果来识别和解决提示中的问题。
-   实验和验证：建议用户通过不同的提示实验来测试其效果，并根据模型的表现进行调整。包括 A/B 测试、用户反馈的利用等方法。
+4. Optimize strategy
+Adjustment and iteration: Emphasizing the process of constantly adjusting the prompts based on actual feedback.Including how to identify and solve the problems in the prompts by analyzing the results generated by the model.
+Experiment and verification: It is recommended that users test their effects through different prompts and adjust them according to the performance of the model.Including A/B testing, the use of user feedback, etc.
 
-5. 实践指南
-   最佳实践：提供了实际应用中的最佳实践，如如何在特定任务（如内容生成、客服对话、知识问答等）中应用提示工程原理。
-   常见问题解决：涵盖了在提示工程过程中可能遇到的一些常见挑战及其解决方案，如如何处理模型的偏见、如何确保生成内容的准确性和相关性。
-   该网站提供了全面的提示工程指南，旨在帮助用户有效地与 AI 系统互动，提升其应用效果和输出质量。
+5. Practical guide
+Best practice: provides the best practice in practical applications, such as how to use prompt project principles in specific tasks (such as content generation, customer service dialogue, knowledge and answer, etc.).
+Common problems solve: cover some common challenges and solutions that may encounter during the prompt project, such as how to deal with the prejudice of the model, how to ensure the accuracy and correlation of the content of the content.
+The website provides a comprehensive prompt engineering guide to help users interact with the AI ​​system effectively and improve its application effect and output quality.

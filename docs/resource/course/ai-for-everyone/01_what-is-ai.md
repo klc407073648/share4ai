@@ -1,98 +1,98 @@
-# 什么是AI
+# What is AI
 
-* ANI(artificial narrow intelligence) 弱人工智能
-* AGI(artificial general intelligence) 强人工智能
+* ANI (Artificial Narrow Intelligence) weak artificial intelligence
+* AGI (Artificial General Intelligence) strong artificial intelligence
 
-![](./images/ANI_AGI.png)
+! [] (./ Images/Ani_ag I.Png)
 
-## 机器学习
+## machine learning
 
-机器学习主要包含以下几个类别：
+Machine learning mainly includes the following categories:
 
-* 监督学习（Supervised Learning）
-     * 使用已知输入和输出来训练模型、以便对新的未知数据进行预测。
-     * 常见的任务类型包括分类（Classification）和回归（Regression）。
-* 非监督学习（Unsupervised Learning）
-    * 使用无标签的数据，目的是找出数据内部的结构或模式。
-    * 典型任务包括聚类（Clustering）、降维（Dimensionality Reduction）、异常检测（Anomaly Detection）等。
-* 强化学习（Reinforcement Learning）
-    * 让一个代理通过与环境的交互来学习决策规则。代理会根据环境反馈的奖励或惩罚来调整其行为，以便在未来获得最大的累积奖励。
-    * 应用场景包括游戏、机器人控制、资源调度等领域。
-* 半监督学习（Semi-supervised Learning）：
-    * 半监督学习介于监督学习和非监督学习之间。它利用少量的带标签数据和大量的无标签数据来进行学习，以提高模型的性能。
-    * 这种方法在**标签难以获得或成本高昂的情况下非常有用。**
-* 自监督学习（Self-supervised Learning）：
-    * 自监督学习是一种特定类型的无监督学习，它通过构造伪标签（pseudo-labels）来指导模型学习。这种方法通常用于预训练阶段，在不需要人工标注的情况下让模型学习到有用的表征。
-    * 该技术常用于**视觉、语音和自然语言处理任务**。
+* Supervised Learning
+* Use known input and output to train the model to predict the new unknown data.
+* Common task types include classification and regression.
+* Non -Supervisor Learning
+* Using labelless data, the purpose is to find the structure or mode inside the data.
+* Typical tasks include clustering, Dimensionality Reduction, Anomaly Detection, etc.
+* Reinforcement Learning
+* Let an agent learn decision -making rules through interaction with the environment.The agent will adjust its behavior based on the reward or punishment of environmental feedback to get the largest accumulation reward in the future.
+* Application scenarios include games, robot control, resource scheduling and other fields.
+* Semi-Supervised Learning:
+* Semi -supervision learning between supervision and learning and non -supervision learning.It uses a small amount of label data and a large amount of labelless data to learn to improve the performance of the model.
+*This method is very useful when the label is difficult to get or cost high.**
+* Self-Supervised Learning:
+* Self-supervision learning is a specific type of unsupervised learning. It guides model learning by constructing pseudo-labels.This method is usually used for pre -training stages, and the model learns useful representation without manual labeling.
+*This technology is often used for ** visual, voice and natural language processing tasks **.
 
-### 监督学习
+### Supervision learning
 
-监督学习的demo:
+Demo of supervision and learning:
 
-![](./images/input_2_output.png)
+! [] (./ Images/input_2_output.png)
 
-## 什么是数据
+## What is data
 
-获取数据
+Get data
 
-* 手工标签
-* 观察用户行为
-* 从网站/合作伙伴下载
+* Manual label
+* Observe user behavior
+* Download from the website/partner download
 
-脏数据的危害：
+Harm of dirty data:
 
-* garbage in, garbage out   数据的重要性
-* 数据问题
-    * 错误标签
-    * 缺失值
-* 多种类型的数据
-    * 图像、音频、文本（归一化处理）
+* Garbage in, Garbage Out data
+* Data question
+* Error label
+* Lack of missing values
+* Various types of data
+* Images, audio, text (regulatory processing)
 
-## AI术语
+## aI term
 
-* 机器学习： 一门研究领域，赋予计算机无需明确编程就能学习的能力。
-    * 主要类型：监督学习、非监督学习、强化学习、半监督学习、深度学习
-* 数据科学： 从大量数据中提取有价值的信息。
-    * 关键技能：数据清洗和预处理、统计分析、数据可视化、数据挖掘、数据库管理、编程能力（如Python、R）、业务理解能力
+* Machine learning: A field of research gives computers that can learn without clear programming.
+* Main types: Supervision learning, non -supervision learning, strengthening learning, semi -supervised learning, deep learning
+* Data science: Extract valuable information from a large amount of data.
+* Key skills: data cleaning and pre -processing, statistical analysis, data visualization, data mining, database management, programming ability (such as Python, R), business understanding ability
 
-## 什么创建了AI公司
+## What created AI Company
 
-**人工智能转型手册（AI Transformation）**
+** AI Transformation ** **
 
-1. 执行试点项目以获得动力。
-2. 建立一个内部AI团队。
-3. 提供广泛的人工智能培训。
-4. 制定人工智能战略。
-5. 发展内部和外部的沟通
-    * IT团队   AI团队
-    * 交互，确定AI团队需要的data，具体内容，标签等
+1. Execute the pilot project to obtain the motivation.
+2. Establish an internal AI team.
+3. Provide extensive artificial intelligence training.
+4. Formulate an artificial intelligence strategy.
+5. Develop internal and external communication
+* IT team AI team
+* Interaction, determine the Data, specific content, labels, etc.
 
-深度学习 神经网络
+Deep learning neural network
 
-## 机器学习可以做什么和不可以做什么
+## What can machine learning do and what can not do
 
-**明白AI能做和不能做的事情** ————>  很重要
+** Understand what AI can do and cannot do ** ---> very important
 
-不能做的事情：AI做市场调研，且给出50页的分析报告
+Things that cannot be done: AI do market research, and give 50 pages of analysis reports
 
-自动驾驶汽车：可以识别前方车辆，不能识别各个人不同的手势含义
+Autonomous car: You can recognize the vehicle ahead, and you cannot recognize the different gesture meaning of everyone
 
-### 机器学习的优缺点
+### The advantages and disadvantages of machine learning
 
-ML can do well in
+ml can downl lin
 
-1. 简单的概念
-2. 大量可靠数据
+1. Simple concept
+2. A lot of reliable data
 
-ML can not do well in
+ml Cannot Dowel Lin
 
-1. 从少量数据中学习复杂概念
-2. 用系统从未见过的新类型数据去执行任务
+1. Learn complex concepts from a small amount of data
+2. Use the new type of data that have never been seen by the system to perform tasks
 
-构造一个系统做 A ——> B 映射
+Construct a system to do A -> B mapping
 
-AI 缺乏举一反三的能力
+AI lacks the ability to do one of the other
 
-构建神经网络
+Construct a neural network
 
-speech recognition  语音识别
+Speech Recognition voice recognition

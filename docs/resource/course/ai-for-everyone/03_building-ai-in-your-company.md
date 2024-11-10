@@ -1,218 +1,218 @@
-# Building AI in Your Company
+# Building ai in your company
 
-# Case studies of complex AI products
+# Case Studies of Complex AI Products
 
-## 智能扬声器
+## smart speaker
 
-![](./images/smart_speak.png)
+! [] (./ Images/Smart_speak.png)
 
-输入：“hello，小爱同学, 播放周杰伦的稻香”
+Enter: "Hello, Xiao Ai classmate, play Jay Chou's rice incense"
 
-执行步骤（AI pipeline）：
+Execution step (AI PIPELINE):
 
-- 触发提示词检测
-  * Audio（小爱智能助手） ——> hello，小爱同学
-- 语音识别 
-  * Audio（小爱智能助手）——> 播放周杰伦稻香
-- 意图识别 
-  * 重点关注 播放音乐 ——> 音乐播放器
-- 执行任务 
-  * 播放稻香
+-D trigger prompt detection
+* Audio (Little Ai Smart Assistant) -> Hello, Xiao Ai classmate
+-Ouk recognition
+* Audio (Little Ai Smart Assistant) -> Play Jay Chou Daoxiang
+-In intent to identify
+* Focus on Playing Music-> Music Player
+-E execution task
+* Play Daoxiang
 
-其他功能：
+Other functions:
 
-![](./images/other_fun.png)
+! [] (./ Images/Other_women .png)
 
-## 自动驾驶汽车
+## 驶
 
-![](./images/self_driving_detect.png)
+! [] (./ Images/SELF_DRIVING_DETECT.PNG)
 
-步骤：
+step:
 
-1. 车辆检测、
-    * 轨迹预测：图像、雷达、激光雷达、GPS、陀螺仪、地图信息
-2. 行人检测、轨迹预测
-    * 交通标识、路标检测
-    * 交通信号灯检测
-    * 障碍物检测
-3. 运动规划 
-    * 速度，加速度、转向、刹车等
+1. Vehicle detection,
+* Track prediction: image, radar, lidar, GPS, gyroscope, map information
+2. Pedestrian testing, trajectory prediction
+* Traffic logo, road signs detection
+* Traffic signal light detection
+* Obstacle detection
+3. Movement planning
+* Speed, acceleration, steering, brake, etc.
 
-![](./images/detect.png)
+! [] (./ Images/Detect.png)
 
-预测图示：
+Forecast icon:
 
-![](./images/detect_and_plan.png)
+! [] (./ Images/Detect_Chanding_!!)
 
-自动驾驶每分钟处理几GB到十几G的数据信息
+Data information from a few GB to a dozen G to a dozen GBs per minute of autonomous driving
 
-# Example roles of an AI team
+# Example Role so fan ai team
 
-## 人工智能团队的示例角色
+## artificial intelligence team's example role
 
-- 软件工程师
-  - 例如，实现音乐播放、自动驾驶的可靠性
-- 机器学习工程师
-  - 编写软件，用于生成 A ——> B 的映射
-- 机器学习研究员
-  - 负责开发机器学习的前沿技术
-- 应用机器学习科学家
-- 数据科学家
-  - 监测数据和分析其背后的意义
-  - 展示由数据分析得到的见解帮助驱动商业决策
-- 数据工程师
-  - 组织数据
-  - 确保数据易于读取和保存，而且保证以一种很安全、经济高效的方式
-- AI 产品经理
-  - 帮助判断什么是可行且有价值的
+-Software engineer
+-P. For example, realize the reliability of music playback and autonomous driving
+-Mee learning engineer
+-Chit the software for generating the mapping of A -> B
+-Mee learning researcher
+-Inderate technology responsible for developing machine learning
+-Che application machine learning scientist
+-Data scientist
+-D monitoring data and analyzing the meaning behind it
+-Chang the insights obtained by data analysis help drive business decisions
+-Data engineer
+-Ogly organization data
+-In ensure that data is easy to read and store, and ensure that a very safe, economical and efficient way
+-AI product manager
+-On help to judge what is feasible and valuable
 
-## Getting started with a small team
+## Getting Start with a Small Team
 
-- 1 Software Engineer , or
-- 1 Machine Learning Engineer/Data Scientist, or
-- Nobody but yourself
+-1 Software Engineer, OR
+-1 Machine Learning Engineer/Data Scientist, OR
+-Nobody But your set
 
-## 人工智能转型计划
+## artificial intelligence transformation plan
 
-AI 转型手册步骤：
+AI transformation manual step:
 
-1. 执行试点项目去获得势头或优势
-   - **初创项目的成功比商业价值更重要**，能够逐步让其他团队转向 AI
-   - 需那种 6-12 个月能展示成效的项目
-   - 内外部项目都可以
-2. 构建内部 AI 团队
-   - **AI 团队给其他部门赋能**
-3. 提供广泛的 AI 培训
-   - 高管 
-      * 知道 AI 可以给企业带来什么；
-      * AI 策略；
-      * 资源分配（GPU 卡，计算资源等）
-   - AI 项目领导 
-      * 制定项目方向（技术和商业调查）；
-      * 部门内资源分配
-      * 监督 AI 项目的进程
-   - AI 工程师 
-      * 构建 AI 软件；
-      * 收集数据；
-      * 执行特定 AI 任务
-4. 制定 AI 策略
-   - **利用 AI 去创建一个特定于你所在行业的优势**
-   - 设计一种与 AI 的良性循环一致的公司策略
-   - 考虑创建数据策略
-     - 战略数据获取 ———— 免费服务（阿里云、chatGPT,AI 问答等）
-     - 构建统一的数据仓库 ———— 将数据库统一，便于分析生产过程中的问题
-   - 创建网络效果和平台优势
-     - 赢家通吃（滴滴，将驾驶员和乘客联系在一起的平台）
-5. 开展内外部交流
-   - 投资者的关系
-   - 政府的关系
-   - 消费者/用户 培训
-   - AI 人才招聘
-   - 内部沟通
+1. Execute the pilot project to gain momentum or advantage
+- ** The success of the start -up project is more important than commercial value **, and can gradually turn other teams to AI
+-Insusted projects that can show results in 6-12 months
+-The internal and external projects can
+2. Build an internal AI team
+- ** AI team empowers other departments **
+3. Provide extensive AI training
+-Executive
+* Know what AI can bring to enterprises;
+* AI strategy;
+* Resource allocation (GPU card, computing resources, etc.)
+-AI project leader
+* Develop project direction (technical and business survey);
+* Resource allocation in the department
+* Supervise the process of AI project
+-AI engineer
+* Build AI software;
+* Collect data;
+* Execute specific AI tasks
+4. Develop AI strategy
+- ** Use AI to create an advantage specific to your industry **
+-C design a corporate strategy consistent with AI's virtuous cycle
+-In consider creating data strategies
+-This data acquisition --- free service (Alibaba Cloud, Chatgpt, AI Q & A, etc.)
+-Cunge a unified data warehouse — uniform database to facilitate analysis of problems in the production process
+-Colon the advantages of network effects and platform
+-The winner (Didi, connecting the driver and passengers together)
+5. Carry out internal and external exchanges
+-The relationship between investors
+-The government relationship
+-Cian/user training
+-Ai talent recruitment
+-Chide communication
 
-## 要避免的人工智能陷阱
+## The artificial intelligence trap to be avoided
 
-- 不要指望 AI 解决所有事情
-  * 认识到 AI 可以做和不可以做的事情，考虑技术、数据和工程资源的限制
-- 指望依赖少数机器学习工程师为公司提供使用用例 
-  * 让工程师与业务人才交流，并让他们跨职能地工作，以寻找可行和有价值的项目
-- **不要指望 AI 项目一次就能成功** 
-  * AI 开发通常是一个**迭代过程**，需要经过多次才能取得成功
-- 不要指望传统的计划流程在没有变化的情况下应用
-  * 与 AI 团队合作，以建立有意义的时间估计，里程碑，KPI 或指标等。
-- 不要以为需要超级厉害的 AI 工程师才能开启一个项目 
- * 继续构建团队，与团队合作
+-Don't expect AI to solve everything
+* Recognize what AI can do and cannot do, consider the restrictions of technology, data and engineering resources
+-Inde rely on a minority machine learning engineer to provide the company with use cases
+* Let engineers communicate with business talents, and let them work across the job to find feasible and valuable projects
+- ** Don't expect the AI ​​project to succeed once **
+*AI development is usually a ** iteration process **, and it takes many times to achieve success
+-Don't expect the traditional planning process to apply without changing
+* Cooperate with the AI ​​team to establish meaningful time estimates, milestones, KPI or indicators, etc.
+-Don't think that the super powerful AI engineer can start a project
+* Continue to build a team and cooperate with the team
 
-## Taking your first step in AI
+## TAKING Someone FIRST step in AI
 
-* Get friends to learn about AI
-  - This course
-  - Reading group
-* Start brainstorming projects
-  - No project is too small
-* Hire a few ML/DS people to help
-* Hire or appoint an AI leader (VP AI, CAIO, etc.)
-* Discuss with CEO/Board possibilities of AI Transformation
-  - Will your company be much more valuable and/or more effective 
- if it were good at AI?
+* Get Friends to Learn About AI
+-THIS COURSE
+-Rading Group
+* Start BrainStorming Projects
+-no project is too small
+* Hire a Few ml/ds people to help
+* Hire or app to press AI Leader (VP AI, CAI O, ETC.)
+* discus with CEO/BOARD POSSIBILIES of AI Transformation
+-Will someone is company be more value and/or more effective
+if it was good, TAI?
 
-# 主要人工智能应用领域调查
+#P. Survey in the field of artificial intelligence application
 
-## 计算机视觉
+## Computer vision
 
-- 图像分类/对象识别
-  - 面部识别
-- 对象检测
-- 图像分割
-- 寻迹/跟踪
+-I image classification/object recognition
+-On facial recognition
+-Pets detection
+-I image segmentation
+-Sito/tracking
 
-## 自然语言处理
+## Natural language processing
 
-- 文本分类
-  - 情绪识别
-- 信息检索
-  - web搜索
-- 名称实体识别 
-  - 提取人名，地名等
-- 机器翻译
-  - 中英文翻译
-- 解析和语音部分标注
-  - 句子中的名词、介词、限定词等
+-Staking text classification
+-Eo emotional recognition
+-Add information retrieval
+-WEB search
+-Name entity recognition
+-On the name of the person, place name, etc.
+-Maine translation
+-Chritong and English translation
+-E Analysis and Voice Partial Label
+-The nouns, prepositions, limited words, etc. in sentences
 
-## 语音
+## voice
 
-- 语音识别 
-  - 语音 to 文本
-- 提示词检测
-- 演讲者ID
-- 语音合成
-  - 文本到语音，TTS
+-Ouk recognition
+-Punge to text
+-The reminder word detection
+-PPR ID
+-Puct synthesis
+-S text to voice, TTS
 
-## 机器人领域
+## Robot field
 
-自动驾驶为例
+Example
 
-- 预测 
-  - 周围环境检测
-- 运动规划 
-  - 找寻路径
-- 控制 
-  - 发送指令按照规定路径运行
+- predict
+-Stin environmental testing
+-Storton planning
+-Find the path
+- control
+-Prip instructions run in accordance with the prescribed path
 
-## 通用的机器学习
+## 机 machine learning
 
-- 非结构化数据 
+-The non -structural data
 
-![](./images/unstructured_data.png)
+! [] (./ Images/UNSTRURURD_DATA.PNG)
 
-- 结构化数据
+-The structured data
 
-![](./images/structured_data.png)
+! [] (./ Images/Structured_data.png)
 
-# 主要人工智能技术调查
+# Main artificial intelligence technology survey
 
-**非监督学习**
+** Non -supervision learning **
 
-- 聚类算法
-  - 输入无标签的数据，输出有趣的结论
-  - 语料学习
+-Cacon algorithm
+-Enter -input -no -label data, output interesting conclusions
+-Grial learning
 
-**监督式学习**
+** Supervision learning **
   
-* （学习从输入 A 到输出 B 的映射），现阶段最有价值的技术
-* 例如，杯子图片（好和坏），构建 AI 应用完成 95%良品率的杯子检测
+* (Learn from the mapping from input A to output B), the most valuable technology at this stage
+* For example, cup pictures (good and bad), build AI applications to complete the 95%good product ratio cup detection
 
-**强化学习**
+** Strengthening learning **
 
-使用奖励信号去告知 AI 做得好还是坏，AI 会自动学习以获取最大化奖励
+Use the reward signal to tell that the AI ​​is done well or bad, AI will automatically learn to obtain maximization rewards
 
-缺点 ：需要大量的数据
+Disadvantages: require a lot of data
 
-**迁移学习 ———— 举一反三**
+** Migration learning ---
 
-- 学习任务 A，根据先前的知识帮助任务 B 
-  * 训练了一个车辆检测模型，对于新的高尔夫车型，有相同的车轮、运行轨迹的检测方法同样适用
+-On learning task A, help mission B according to previous knowledge B B
+* Trained a vehicle detection model. For the new golf model, there are the same wheels and running trajectory detection methods.
 
-**生成对抗网络**
+** Generate confrontation network **
 
-**知识图谱**
+** Knowledge map **

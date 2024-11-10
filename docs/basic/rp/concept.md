@@ -1,19 +1,19 @@
-# 强化学习（Reinforcement Learning）
+# Reinforcement lead
 
-## 定义
+## definition
 
-强化学习是一种机器学习方法，通过试错和奖励机制让智能体（Agent）从环境中学习如何做决策，以实现长期目标。
+Strengthening learning is a method of learning. Through the trial and error and reward mechanism, let the smart (Agent) learn how to make decisions from the environment to achieve long -term goals.
 
-## 技术
+## technology
 
-- **Q学习**：一种值迭代方法，通过更新Q值来指导智能体的决策。
-- **深度Q网络（DQN）**：结合深度学习和Q学习，使用深度神经网络来估计Q值函数。
-- **策略梯度方法**：直接优化策略函数，如REINFORCE算法。
-- **多臂老虎机问题**：探索与利用之间的权衡问题，在强化学习中广泛应用。
+- ** q Learning **: One value iteration method, to guide the smart body decision -making by updating the Q value.
+- ** Deep q network (DQN) **: Combined with deep learning and Q learning, use deep neural networks to estimate the Q value function.
+- ** Strategic gradient method **: Direct optimization strategy function, such as Reinforce algorithm.
+- ** Multi -arm slot machine problem **: The problem of weighing and utilization between exploration and utilization is widely used in strengthening learning.
 
-## 应用
+## application
 
-- **游戏AI**：如AlphaGo通过强化学习击败世界围棋冠军。
-- **机器人控制**：通过学习不同的动作策略来实现复杂任务。
-- **金融交易**：自动化交易系统通过强化学习来优化交易策略。
-- **资源管理**：能源调度、库存管理等。
+- ** Game AI **: For example, AlphaGo defeats the world Go champion by strengthening learning.
+- ** Robot control **: Through learning different action strategies to achieve complex tasks.
+- ** Financial transaction **: Automation trading system optimizes trading strategies by strengthening learning.
+- ** Resource management **: Energy scheduling, inventory management, etc.

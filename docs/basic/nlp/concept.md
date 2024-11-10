@@ -1,23 +1,23 @@
-# 自然语言处理（NLP）
+# Natural Language Treatment (NLP)
 
-## 定义
+## definition
 
-自然语言处理是计算机科学、人工智能和语言学领域的交叉学科，旨在使计算机能够理解、生成和处理人类语言。
+Natural language processing is a cross discipline in the field of computer science, artificial intelligence and linguistics, and aims to enable computers to understand, generate and handle human language.
 
-## 技术
+## technology
 
-- **文本预处理**：如分词、去停用词、词干化等。
-- **词嵌入（Word Embedding）**：将单词转换为高维向量，如Word2Vec、GloVe等。 ————  Embedding 模型是自然语言处理的一部分
-- **Transformer模型**：如BERT、GPT系列等，基于自注意力机制（Self-Attention），在许多NLP任务上取得了重大突破。
-- **命名实体识别（NER）**：从文本中识别出人名、地名、组织名等实体。
-- **情感分析**：分析文本的情感倾向，广泛应用于社交媒体监控和市场研究。
-- **机器翻译**：将一种自然语言翻译成另一种自然语言。
+- ** Text pre -processing **: such as segmentation, decentralization words, and sebulsum.
+- ** Word Embedding **: Convert the words to high -dimensional vectors, such as Word2vec, Glove, etc.————— the Embedding model is part of natural language processing
+- ** Transformer model **: For example, BERT, GPT series, etc. Based on the self-teasing mechanism, major breakthroughs have been achieved on many NLP tasks.
+- ** Naming entity recognition (NER) **: identify entities such as names, place names, and organization names from the text.
+- ** Emotional Analysis **: Analyze the emotional tendency of text, and is widely used in social media monitoring and market research.
+- ** Machine Translation **: Translate one natural language into another natural language.
 
-## 应用
+## application
 
-- **机器翻译**：如Google Translate。
-- **语音识别**：将语音转换为文本，如语音助手。
-- **聊天机器人**：基于NLP的聊天系统，如客服机器人。
-- **搜索引擎**：信息检索、关键词提取等。
-- **文本生成**：新闻摘要、自动写作等。
-- **情感分析**：社交媒体监控、市场调研等。
+- ** Machine translation **: Such as Google Translate.
+- ** Voice recognition **: Convert voice to text, such as voice assistant.
+- ** Chat robot **: NLP -based chat system, such as customer service robots.
+- ** search engine **: information retrieval, keyword extraction, etc.
+- ** Text generation **: news abstract, automatic writing, etc.
+- ** Emotional Analysis **: Social media monitoring, market research, etc.

@@ -1,20 +1,20 @@
-# 计算机视觉（Computer Vision）
+# Computer vision (Computer Vision)
 
-## 定义
+## definition
 
-计算机视觉是人工智能的一个分支，旨在使计算机能够通过分析图像和视频来理解和解释视觉世界。
+Computer vision is a branch of artificial intelligence, which aims to enable computers to understand and explain the visual world by analyzing images and videos.
 
-## 技术
+## technology
 
-- **图像分类**：将图像分配到一个类别中，使用CNN等深度学习模型进行训练。
-- **目标检测**：识别图像中多个物体的位置和类别，常用算法有YOLO、Faster R-CNN等。
-- **图像分割**：将图像分成若干区域，精确分离图像中的不同物体，如U-Net用于医学图像分割。
-- **姿态估计**：估计人体或物体在空间中的位置与朝向。
+- ** image classification **: allocate images into a category, and use deep learning models such as CNN for training.
+- ** Target detection **: Identify the location and category of multiple objects in the image. The commonly used algorithms include YOLO, Faster R-CNN, and so on.
+- ** Image segmentation **: Divide images into several areas, and accurately separates different objects in images, such as U-Net for medical image segmentation.
+- ** Gesture estimation **: It is estimated that the position and orientation of the human body or object in the space.
 
-## 应用
+## application
 
-- **自动驾驶**：通过计算机视觉识别道路标志、行人和障碍物。
-- **人脸识别**：如在手机解锁或安防监控中的应用。
-- **医学影像**：自动化诊断疾病，尤其在X光、CT和MRI图像分析中。
-- **安全监控**：人脸识别、异常行为检测等。
-- **增强现实**：虚拟对象与真实世界的融合。
+- ** Autonomous driving **: Through computer vision recognition road signs, pedestrians and obstacles.
+- ** Face recognition **: For applications in mobile phones unlocking or security monitoring.
+- ** Medicine image **: Automated diagnosis of diseases, especially in X -ray, CT and MRI image analysis.
+- ** Safety monitoring **: Face recognition, abnormal behavior detection, etc.
+- ** Augmented reality **: The integration of virtual objects and real world.

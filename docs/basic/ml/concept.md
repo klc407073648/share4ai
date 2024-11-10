@@ -1,18 +1,18 @@
-# 机器学习（Machine Learning）
+#
 
-## 定义
+## definition
 
-机器学习是人工智能的一个子领域，致力于研究如何通过数据驱动的方法，使计算机能够自动从经验中学习和改善其性能。
+Machine learning is a sub -domain of artificial intelligence. It is committed to studying how to drive through data -driven methods so that computers can automatically learn and improve their performance from experience.
 
-## 技术
+## technology
 
-- **监督学习**：通过标注数据训练模型，使其能够对新的、未标注的数据进行预测或分类。常见算法包括：线性回归、支持向量机（SVM）、决策树等。
-- **无监督学习**：没有标签的数据，模型尝试从数据中找出潜在的结构或规律。常见算法包括：K均值聚类、主成分分析（PCA）等。
-- **半监督学习**：结合了监督学习和无监督学习，部分数据是有标签的，其他数据是无标签的。
-- **强化学习**：通过与环境互动，学习到如何通过行动来最大化长期回报。
+- ** Supervision Learning **: By labeling the data training model, it can predict or classify the new and unsigned data.Common algorithms include: linear regression, support vector machine (SVM), decision tree, etc.
+- ** Unsupervised learning **: Data without labels, the model attempts to find the potential structure or law from the data.Common algorithms include: K average cluster, main component analysis (PCA), etc.
+- ** Semi -supervised learning **: Combined with supervision and learning and unsupervised learning. Some data are labeled, and other data are not labeled.
+- ** Strengthen learning **: Through interaction with the environment, learn how to maximize long -term returns through action.
 
-## 应用
+## application
 
-- **推荐系统**：如Netflix和Amazon的个性化推荐。
-- **垃圾邮件检测**：基于历史数据训练分类器，识别垃圾邮件。
-- **金融预测**：如股票市场预测和信用评分系统。
+- ** Recommended system **: For example, personalized recommendations for Netflix and Amazon.
+- ** Spam Test **: Based on historical data training classifiers, identify spam.
+- ** Financial forecast **: If the stock market forecast and credit score system.

@@ -1,25 +1,25 @@
-# 如何训练自己的大语言模型
+# How to train your big language model
 
-# 参考资料
+# Reference information
 
-* [How to train your own Large Language Models](https://blog.replit.com/llm-training)
+* [HOW TOT RAIN has a Ro-dance Language Models] (https://blog.rep IT.COM/ Stray cat -Traying)
 
-# 内容
+# content
 
-* 数据输入
-    * Stack Overflow | The-Stack-dedup(Hugging Face) | Public Replit
-* 数据处理
-    * Databricks
-    * Tokenization和Vocabulary Training
-        * 训练我们自己的自定义词汇表，使我们的模型能够更好地理解和生成代码内容
-* 模型训练
-    * MosaicML
-* 评估
-    * HumanEval框架
+* Data input
+* Stack Overflow | The-Stack- Drugs (Hugging Face) | Public REP IT
+* Data processing
+* Data Bricks
+* Tokenize and Vocabular Training
+* Training our own custom vocabulary meters so that our model can better understand and generate code content
+* Model training
+* Mosaic ml
+* Evaluate
+* Humaneval framework
         
-备注：
-* Databricks 是一家云计算公司，提供一个统一的数据分析平台，旨在帮助企业更高效地处理和分析大规模数据。
-* Hugging Face 是一个领先的人工智能公司，专注于自然语言处理（NLP）和机器学习领域。
-* MosaicML 是一家专注于提升机器学习模型训练效率和降低训练成本的公司。它提供了一个平台，用于优化和加速大规模机器学习模型的训练过程。
+Remark:
+* DataBricks is a cloud computing company, which provides a unified data analysis platform to help enterprises process and analyze large -scale data more efficiently.
+* Hugging Face is a leading artificial intelligence company that focuses on natural language processing (NLP) and machine learning.
+* Mosaicml is a company focusing on improving the training efficiency of machine learning models and reducing training costs.It provides a platform for training and accelerating the training process of optimizing and accelerating large -scale machine learning models.
 
-![](./images/train_own_models/train_llm.png)
+! [] (./ Images/TRAIN_ON_MODELS/Train_lob Cat .png)

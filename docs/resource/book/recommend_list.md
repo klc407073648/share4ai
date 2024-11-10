@@ -1,39 +1,39 @@
-# AI书籍推荐
+# AI Book Recommendation
 
-## 1. 入门级书籍：适合初学者
+## 1. Entry -level book: Suitable for beginners
 
-| 书籍名称                           | 作者                             | 简介                                                     | 适合人群                                     |
-|------------------------------------|----------------------------------|----------------------------------------------------------|--------------------------------------------|
-| **人工智能：一种现代的方法**        | Stuart Russell & Peter Norvig    | 这本书被视为AI领域的“圣经”，全面介绍了AI的各个方面，适合有一定数学背景的初学者。 | 有一定数学或编程背景的初学者、计算机科学学生。  |
-| **Python机器学习**                  | Sebastian Raschka & Vahid Mirjalili | 通过Python编程语言带领读者入门机器学习，涵盖常见算法与技巧，适合快速上手。 | 对Python编程有兴趣的初学者，想学习机器学习的读者。 |
-| **人工智能：一种新思维**            | Nils J. Nilsson                  | 通过不同角度介绍AI的思想框架，适合想了解AI本质的入门读者。 | 对AI的概念、发展历程和应用场景感兴趣的初学者。 |
-
----
-
-## 2. 经典书籍：中级进阶
-
-| 书籍名称                           | 作者                             | 简介                                                     | 适合人群                                     |
-|------------------------------------|----------------------------------|----------------------------------------------------------|--------------------------------------------|
-| **深度学习**                       | Ian Goodfellow, Yoshua Bengio & Aaron Courville | 全面介绍深度学习，涵盖深度神经网络的原理、训练方法及应用，是深度学习领域的经典教材之一。 | 有一定机器学习基础，想深入学习神经网络与深度学习的读者。 |
-| **机器学习：概率视角**             | Kevin P. Murphy                  | 提供概率论视角讲解机器学习的算法与方法，适合理解机器学习的数学基础。 | 有数学和统计学基础，想深入了解机器学习算法的读者。 |
-| **统计学习方法**                   | 李航                             | 系统讲解各种机器学习算法及其数学原理，是学习统计学习方法的经典教材。 | 希望深入了解机器学习的理论背景，特别是统计学习的读者。 |
+| Book Name | Author | Introduction | Suitable for the crowd |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | |
+| ** Artificial intelligence: a modern method ** | Stuart Russell & Peter Norvig | This book is regarded as the "Bible" in the AI ​​field, which fully introduces all aspects of AI, suitable for beginners with a certain mathematical background.| Beginners who have a certain mathematics or programming background, computer science students.| |
+| ** Python Machine Learning ** | Sebastian Raschka & Vahid Mirjalili | Leads readers to get started with readers through Python programming language, covering common algorithms and techniques, suitable for fast starting.| For beginners who are interested in Python programming, readers who want to learn machine learning.| |
+| ** Artificial Intelligence: A new thinking ** | nils j. Nilsson | Introduce the ideological framework of AI through different angles, which is suitable for entry readers who want to understand AI.| Beginners who are interested in AI concepts, development history and application scenarios.| |
 
 ---
 
-## 3. 进阶书籍：适合有较强技术背景的人
+## 2. Classic Books: Intermediate Advanced
 
-| 书籍名称                           | 作者                             | 简介                                                     | 适合人群                                     |
-|------------------------------------|----------------------------------|----------------------------------------------------------|--------------------------------------------|
-| **强化学习：理论与实践**           | Richard S. Sutton & Andrew G. Barto | 讲解强化学习的核心概念和算法，涵盖Q-learning、策略梯度等方法。 | 对强化学习有兴趣的读者，尤其是已经有一定机器学习背景的人。 |
-| **模式识别与机器学习**             | Christopher Bishop                | 深入探讨机器学习中的模式识别技术、统计建模等内容，适合有一定数学基础的读者。 | 数学基础较强，尤其是统计学和线性代数基础较好的人。 |
-| **深度学习与计算机视觉**           | Rajalingappaa Shanmugamani        | 从深度学习角度理解计算机视觉任务，包括图像分类、目标检测等。 | 对计算机视觉和深度学习有一定了解，想深入学习CV应用的读者。 |
+| Book Name | Author | Introduction | Suitable for the crowd |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | |
+| ** Deep Learning ** | Ian Goodfellow, Yoshua Bengio & Aaron Courville | Comprehensively introduce deep learning, covering the principles, training methods and applications of deep neural networks. It is one of the classic textbooks in the field of deep learning.Readers who have a certain machine learning foundation and want to thoroughly learn neural network and deep learning.| |
+| ** Machine Learning: Probability Perspective ** | Kevin P. Murphy | Provide the algorithm and method of the probability theory of the perspective of the perspective, which is suitable for understanding the mathematical foundation of machine learning.Readers who have the foundation of mathematics and statistics, want to deeply understand the learning algorithm of machine learning.| |
+| ** Statistics Learning Method ** | Li Hang | System explains various machine learning algorithms and their mathematical principles. It is a classic textbook for learning statistical learning methods.| I hope that in -depth understanding of the theoretical background of machine learning, especially the readers of statistical learning.| |
 
 ---
 
-## 4. AI哲学与未来探索
+## 3. Advanced books: Suitable for people with strong technical background
 
-| 书籍名称                           | 作者                             | 简介                                                     | 适合人群                                     |
-|------------------------------------|----------------------------------|----------------------------------------------------------|--------------------------------------------|
-| **人工智能的未来**                 | Robin Hanson                     | 探讨AI高度智能化后的社会结构和经济体系，涉及人工智能对人类社会的影响。 | 对AI未来的社会影响和伦理问题感兴趣的读者。 |
-| **超级智能：路径、危险与策略**     | Nick Bostrom                     | 探讨超级智能的可能性及其带来的风险和挑战，分析人工智能发展中的伦理和社会问题。 | 对AI伦理、哲学和长远影响感兴趣的读者。 |
+| Book Name | Author | Introduction | Suitable for the crowd |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | |
+| ** Strengthening learning: Theory and practice ** | Richard S. Sutton & Andrew G. Barto | Explain the core concepts and algorithms of enhanced learning, covering methods such as Q-Learning, strategic gradient.| Readers who are interested in learning, especially those who have a certain machine learning background.| |
+| ** mode recognition and machine learning ** | Christopher Bishop | In -depth discussion of mode recognition technology and statistical modeling in machine learning, suitable for readers with a certain mathematical foundation.| Strong mathematics foundation, especially those with better foundation and linear algebra.| |
+| ** Deep learning and computer vision ** | Rajalingappa Shanmugamani | Understand computer vision tasks from the perspective of deep learning, including image classification and target detection.| Readers who have a certain understanding of computer vision and deep learning, and want to study CV applications in depth.| |
+
+---
+
+## 4. AI philosophy and future exploration
+
+| Book Name | Author | Introduction | Suitable for the crowd |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | |
+| ** The future of artificial intelligence ** | Robin Hanson | Discuss the social structure and economic system after AI highly intelligent, involves the impact of artificial intelligence on human society.Readers who are interested in AI's future social impact and ethics issues.| |
+| ** Super Intelligence: Path, Danger and Strategy ** | Nick Bostrom | Discuss the possibility of super intelligence and the risks and challenges brought by it, and analyze the ethical and social issues in the development of artificial intelligence.| Readers who are interested in AI ethics, philosophy and long -term impact.| |
 

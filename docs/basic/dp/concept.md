@@ -1,18 +1,18 @@
-# 深度学习（Deep Learning）
+# Deep Learning (Deep Learning)
 
-## 定义
+## definition
 
-深度学习是机器学习的一个子领域，专注于通过多层的人工神经网络（ANN）来进行特征学习和模式识别，尤其在处理大规模数据时表现优越。
+Deep learning is a sub -field of machine learning. It focuses on characteristic learning and pattern recognition through multi -layered artificial neural networks (Ann), especially when processing large -scale data.
 
-## 技术
+## technology
 
-- **卷积神经网络（CNN）**：广泛应用于图像处理、计算机视觉任务中，通过卷积操作提取图像特征。
-- **循环神经网络（RNN）**：适用于处理序列数据，如语音识别和自然语言处理（NLP）。其变种如长短期记忆网络（LSTM）更好地解决了传统RNN的梯度消失问题。
-- **长短时记忆网络（LSTM）**：一种特殊的RNN，能够有效处理长依赖问题。
-- **生成对抗网络（GAN）**：由生成器和判别器组成的模型，用于生成类似于真实数据的假数据，广泛应用于图像生成、风格转换等任务。
+- ** convolutional neural network (CNN) **: widely used in image processing and computer visual tasks, and extract image features through convolution operations.
+- ** Circular neural network (RNN) **: Suitable for processing sequence data, such as voice recognition and natural language processing (NLP).Its variants such as long -term memory network (LSTM) better solve the problem of disappearance of the gradient of traditional RNN.
+- ** Memory Network (LSTM) **: A special RNN that can effectively handle the problem of length dependencies.
+- ** Generate a model of the confrontation network (GAN) **: a model composed of a generator and a device, which is used to generate fake data similar to real data, and is widely used in tasks such as image generation and style conversion.
 
-## 应用
+## application
 
-- **自动驾驶**：使用CNN进行实时图像识别和处理。
-- **语音识别**：如Siri、Google Assistant等虚拟助手的语音识别。
-- **图像生成与修复**：如图像修复、风格迁移、深度伪造（Deepfake）。
+- ** Autonomous driving **: Use CNN to perform real -time image recognition and processing.
+- ** Voice recognition: Voice recognition of virtual assistants such as Siri, Google Assistant.
+- ** Image generation and repair **: such as image repair, style migration, and deeper falsification.

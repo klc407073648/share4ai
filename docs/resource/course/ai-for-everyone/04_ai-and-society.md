@@ -1,89 +1,89 @@
 
 # AI and Society
 
-## 对人工智能的现实观点
+## The realistic view of artificial intelligence
 
-AI 黄金准则：
+AI Gold Standard:
 
-- 太乐观
-- 太悲观
-- 正好： AI 不能做所有事情，但是它正在改变行业
+-T.
+-The pessimistic
+-Poltice: AI can't do everything, but it is changing the industry
 
-AI 限制：
+AI limit:
 
-- 性能限制
-- 难以解释（不擅长解释） 需要解释为什么这个模型效果这么好？ 可解释性
-- 偏见 AI 通过偏见的数据
-- AI 的对抗性攻击
+-The performance restriction
+-In difficult to explain (not good at explanation), you need to explain why this model is so good?Explanatory
+-The prejudice AI through prejudice data
+-AI's confrontation attack
 
-## 歧视/偏见
+## discrimination/prejudice
 
-![](./images/unhealthy_stereotypes.png)
+! [] (./ Images/Unhealthy_ Itereotypes.png)
 
-### 歧视/偏见带来的影响
+### The impact of discrimination/prejudice
 
-- 歧视女性的招聘工具
-- 面部识别匹配深色皮肤
-  - 个人犯罪照片
-- 银行贷款审批
-- 强化不健康刻板印象的毒性作用
+-Minication tool for discrimination against women
+-Net recognition matching dark skin
+-Op personal crime photo
+-Bard loan approval
+-The toxic effect of strengthening unhealthy stereotypes
 
-### 对抗歧视
+### against discrimination
 
-- 技术解决方案
-  - 将数字中带有偏见的参数设置为 0
-  - 尽量使用存在较少偏见和或更具包容性的数据
-- 系统有良好透明度和审计流
-- 多样化的劳动力
-  - 构建人工智能系统时，拥有更多独特的视角
+-The technical solution
+-Set the parameter with prejudice in the number to 0
+-Re use less prejudice and or more inclusive data as much as possible
+-The system has good transparency and auditing flow
+-Dualified labor
+-When build an artificial intelligence system, have more unique perspectives
 
-## 针对人工智能的对抗攻击
+## Fight against artificial intelligence
 
-AI 看待图片的方式与人类不同，通过修改图像的像素，人类可能认为还是同一个种类，但是对于 AI 而已是不同种类
+The way AI looks at pictures is different from humans. Through modifying the pixels of images, humans may think that it is still the same type, but it is different for AI
 
-![](./images/attacks_on_ai.png)
+! [] (./ Images/Attacks_ON_ Love .png)
 
-对抗性防御
-- 防御确实存在，但会产生一些成本
-- 类似于垃圾邮件与反垃圾邮件，我们可能处于某些应用的军备竞赛
+Confrontation defense
+-Fight really exists, but it will generate some costs
+-It similar to spam and anti -spam, we may be in some applications of arms race
 
-## 人工智能的不利用途
+##'S unfavorable use of artificial intelligence
 
-不利的用途
+Adverse use
 
-- DeepFakes
-  - 深度学习视频篡改技术
-- 破坏民主和隐私
-  - 对个人的压迫性监测
-- 生产虚假评论
-- 垃圾邮件和反垃圾邮件 欺诈和反欺诈
+-DEEP FAKE is
+-En deep learning video tampering technology
+-Dy damage to democracy and privacy
+-Catherable monitoring of personal compression
+-Pelasse comments
+-The spam and anti -spam fraud and anti -fraud
 
-## 人工智能与发展中经济体
+## artificial intelligence and development economy
 
-- 移动电话
-- 移动支付
-- 在线教育
+-Co mobile phone
+-Comotical payment
+-Online education
 
-- 美国和中国处于领先地位，但所有人工智能社区仍然不成熟
-- 专注于人工智能，以加强一个国家的垂直行业
-- 加快公私伙伴关系的发展
+-The United States and China are in a leading position, but all artificial intelligence communities are still immature
+-Sto focus on artificial intelligence to strengthen the vertical industry of a country
+-Stoly accelerate the development of public and private partnerships
 
-## 人工智能与就业
+## artificial intelligence and employment
 
-自动化可以实现的事情更多，AI 加速自动化进程
+Automation can achieve more things, AI accelerate automation process
 
-如何估计多少工作可以被取代？
+How to estimate how many jobs can be replaced?
 
-![](./images/ai_impact_job.png)
+! [] (./ Images/Love_IMPACT_JOB.PNG)
 
-![](./images/ai_impact_job_risk.png)
+! [] (./ Images/Love_IMPACT_JOB_RISK.PNG)
 
-思考哪些任务构成了这个工作，然后对每项任务估计通过 AI 实现自动化的程度
+Think about which tasks constitute this job, and then estimate the degree of automation of each task through AI
 
-——— 工作包含高度自动化的任务，就更容易被取代
+——The work includes high automation tasks, which is easier to be replaced
 
-解决方案:
+Solution:
 
-- 有条件的基本收入：提供安全网但鼓励学习
-- 终身学习
-- 政治解决方案
+-Base income with conditions: Provide a security net but encourage learning
+-The lifes of learning
+-Polidate solution
