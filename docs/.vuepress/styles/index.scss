@@ -1,0 +1,40 @@
+// 调整页面主要内容区域的宽度
+.theme-container {
+  max-width: 2000px; // 根据需要调整宽度
+  margin: 0 auto; // 居中显示
+}
+
+// 调整内容区域的宽度
+.theme-default-content {
+  font-size: 16px; // 调整字体大小
+  line-height: 1.6; // 调整行高
+  padding: 2rem 2.5rem; // 调整内边距
+}
+
+// 调整标题的大小
+.theme-default-content h1 {
+  font-size: 2.5em; // 调整一级标题的大小
+}
+
+.theme-default-content h2 {
+  font-size: 2em; // 调整二级标题的大小
+}
+
+.theme-default-content h3 {
+  font-size: 1.5em; // 调整三级标题的大小
+}
+
+.theme-default-content h4 {
+  font-size: 1.2em; // 调整四级标题的大小
+}
+
+// 调整段落的大小
+.theme-default-content p {
+  font-size: 1em; // 调整段落的大小
+}
+
+// 调整列表的大小
+.theme-default-content ul,
+.theme-default-content ol {
+  font-size: 1em; // 调整列表的大小
+}
