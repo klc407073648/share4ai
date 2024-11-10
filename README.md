@@ -17,3 +17,7 @@ https://ecosystem.vuejs.press/zh/themes/default/config.html#sidebar
 
 
 内容页面太窄了，需要调整
+
+tools工具中转英文还需改进
+
+/usr/share/nginx/html/  TODO  需要手动拷贝sea.jpeg

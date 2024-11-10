@@ -1,7 +1,7 @@
 ---
 home: true
 title: Home
-heroImage: /images/sea.jpeg
+heroImage: https://share4ai.cn/sea.jpeg
 actions:
   - text: Get Started
     link: /get-started.html

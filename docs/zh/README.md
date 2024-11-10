@@ -1,7 +1,7 @@
 ---
 home: true
 title: 首页
-heroImage: /images/sea.jpeg
+heroImage: https://share4ai.cn/sea.jpeg
 actions:
   - text: 快速开始
     link: /zh/get-started.html
